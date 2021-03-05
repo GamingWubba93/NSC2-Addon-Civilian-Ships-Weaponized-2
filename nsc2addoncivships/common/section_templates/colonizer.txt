@@ -1,0 +1,45 @@
+# (-NSC2 Addon: Civilian Ships Weaponized 2-)
+# Author: wooley2000 & Ancient Gatekeeper
+
+############
+# STANDARD #
+############
+
+ship_section_template = {
+	key = "DEFAULT_COLONIZATION_SECTION"
+	ship_size = colonizer
+	ship_size = sponsored_colonizer
+	fits_on_slot = mid
+	entity = "colony_ship_entity"
+	icon = "GFX_ship_part_core_mid"
+
+	component_slot = {
+		name = "SMALL_GUN_01"
+		template = "point_defence_turret"
+		locatorname = "small_gun_01"
+	}
+
+	small_utility_slots = 3
+    aux_utility_slots = 1
+}
+
+############
+# LITHOIDS #
+############
+
+ship_section_template = {
+	key = "DEFAULT_COLONIZATION_SECTION2"
+	ship_size = lithoid_colonizer
+	fits_on_slot = mid
+	entity = "lithoid_01_meteor_colonyship_empty_entity"
+	icon = "GFX_ship_part_core_mid"
+
+	component_slot = {
+		name = "SMALL_GUN_01"
+		template = "point_defence_turret"
+		locatorname = "small_gun_01"
+	}
+
+	small_utility_slots = 3
+    aux_utility_slots = 1
+}

@@ -1,0 +1,28 @@
+[img]https://i.imgur.com/fVVaDCS.gif[/img]
+
+[img]https://i.imgur.com/V3Z5O15.png[/img]
+A small lightweight mod to allow editing of civilian ships and stations. Includes Improved Transport Ship Behaviors and Transport Upgrades!
+
+[img]https://i.imgur.com/kmsMpJE.png[/img]
+[list]
+[*]New ships for colonziers, construction, science vessels
+[*]More custom components
+[*]Maybe some new civilian stations that increase output
+
+[img]https://i.imgur.com/DlOTDMv.png[/img]
+[list]
+[*]Savegame Compatible
+[*]Not Ironman Compatible
+[*]I made changes to multiple vanilla game files so it probably is not compatible with any mods that alter ships or ship components. Be aware that the AI will use this also in your game.
+[/list]
+
+[img]https://i.imgur.com/4Und3QN.png[/img]
+
+[img]https://i.imgur.com/i1Ym6CQ.png[/img]
+
+[url=https://www.patreon.com/eaglescout93][img]https://i.imgur.com/OAZ4eG1.png[/img][/url]
+
+[url=https://www.paypal.me/mhamilton93][img]https://i.imgur.com/vAfbe4X.gif[/img][/url]
+
+[img]https://i.imgur.com/qUlyQsE.png[/img]
+Thanks to [url=https://steamcommunity.com/id/wooley2000]wooley2000[/url] for creating the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1565375083]original mod[/url]

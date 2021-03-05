@@ -1,0 +1,37 @@
+###############################################################################
+###################### CHANGELOG FOR NSC CIV SHIPS ############################
+###############################################################################
+
+###################
+# Apr 18 2020
+###################
+
+- Removed auto upgrade from ships & stations due to feedback about it glitching out and creating a new ship design each time technology was researched
+
+###################
+# Apr 4 2020
+###################
+
+- Removed: Components now add to cost temporarily
+
+###################
+# Mar 31 2020
+###################
+
+- Added Lithoids colony ship to master colonizer list
+- Made Lithoids colony ship designable
+- Civilian stations & ships now auto upgrade (If this is too buggy let me know and I'll remove this feature)
+- Components now add to cost
+
+###################
+# Mar 26 2020
+###################
+
+- Fixed weapons not showing up on stations & civilian ships (Paradox changed the specific code lines)
+
+###################
+# Mar 23 2020
+###################
+
+- Initial Upload
+- Added links for users to donate to PayPal & Patreon
